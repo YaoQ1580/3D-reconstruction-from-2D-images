@@ -62,8 +62,12 @@ After getting 3D points coordinate value, the surface topology spanned by these 
 ![image](https://user-images.githubusercontent.com/67689632/200151773-881729a3-eb40-4330-9c73-9612e6200bd0.png)
 Fig 8
 
-File description:
+**File description:**
+
 Main.cpp is the entry point of this software.
+
 CamCalib.cpp is used to generate some parameters which can then be used to do 3D rectification.
+
 CalPhase.cpp is used to generate characteristic value for each pixel.
+
 Propointcloud.cpp is used to filter some noise of the point could and generate the surface structure of the 3D points.
