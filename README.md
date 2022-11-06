@@ -64,10 +64,10 @@ Fig 8
 
 **File description:**
 
-Main.cpp is the entry point of this software.
+**Main.cpp** is the entry point of this software.
 
-CamCalib.cpp is used to generate some parameters which can then be used to do 3D rectification.
+**CamCalib.cpp** is used to generate some parameters which can then be used to do 3D rectification.
 
-CalPhase.cpp is used to generate characteristic value for each pixel.
+**CalPhase.cpp** is used to generate characteristic value for each pixel.
 
-Propointcloud.cpp is used to filter some noise of the point could and generate the surface structure of the 3D points.
+**Propointcloud.cpp** is used to filter some noise of the point could and generate the surface structure of the 3D points.
